@@ -1,0 +1,1206 @@
+[
+  {
+    "name": "А.Чоми Powerbeam m2",
+    "ip": "192.168.7.194",
+    "ssid": "formulla55",
+    "login": "ubnt",
+    "pass": "jomi194#"
+  },
+  {
+    "name": "А.Чоми Power beam m5",
+    "ip": "192.168.67.66",
+    "ssid": "AP_Ilhom",
+    "login": "ubnt",
+    "pass": "jomi66#"
+  },
+  {
+    "name": "А.Чоми Power beam m5 Гэмотест",
+    "ip": "192.168.67.67",
+    "ssid": "AP Jomi gemotes",
+    "login": "ubnt",
+    "pass": "jomi67#"
+  },
+  {
+    "name": "А.Чоми Power beam m5 Часть",
+    "ip": "192.168.67.68",
+    "ssid": "Ap Chast",
+    "login": "ubnt",
+    "pass": "jomi68#"
+  },
+  {
+    "name": "А.Чоми Power beam m5 Формула55",
+    "ip": "192.168.67.69",
+    "ssid": "FORMULLA 55",
+    "login": "ubnt",
+    "pass": "jomi69#"
+  },
+  {
+    "name": "А.Чоми NanoStation loco M2",
+    "ip": "192.168.7.195",
+    "ssid": "jomi10",
+    "login": "ubnt",
+    "pass": "jomi195#"
+  },
+  {
+    "name": "Бешкапа 1 Nanostation m2",
+    "ip": "192.168.67.40",
+    "ssid": "Beshkapa",
+    "login": "ubnt",
+    "pass": "beshkapa40#"
+  },
+  {
+    "name": "Бешкапа 2 Power beam 2",
+    "ip": "192.168.67.39",
+    "ssid": "beshkapa kom",
+    "login": "ubnt",
+    "pass": "beshkapa39#"
+  },
+  {
+    "name": "Бешкент Rocket m2",
+    "ip": "192.168.5.18",
+    "ssid": "binet",
+    "login": "ubnt",
+    "pass": "reboot18"
+  },
+  {
+    "name": "Бешкент Power beam м5",
+    "ip": "192.168.67.38",
+    "ssid": "Beshkent m5",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Вахш Rocket m2",
+    "ip": "192.168.5.11",
+    "ssid": "vakshnet",
+    "login": "ubnt",
+    "pass": "vakhsh11#"
+  },
+  {
+    "name": "Вахш2 PowerBeam M5",
+    "ip": "192.168.67.106",
+    "ssid": "vakhsh z",
+    "login": "ubnt",
+    "pass": "vakhsh106#"
+  },
+  {
+    "name": "Вахш PowerBeam M2",
+    "ip": "192.168.67.98",
+    "ssid": "SVKULOB",
+    "login": "ubnt",
+    "pass": "vakhsh98#"
+  },
+  {
+    "name": "Вахш Nanostation M5 Савхози Кулоб",
+    "ip": "192.168.67.99",
+    "ssid": "AP zavod sab kulob",
+    "login": "ubnt",
+    "pass": "vakhsh99#"
+  },
+  {
+    "name": "Вахш Powerbeam M5 Савхози Кулоб 1",
+    "ip": "192.168.67.100",
+    "ssid": "AP Kolej sab kulob",
+    "login": "ubnt",
+    "pass": "vakhsh100#"
+  },
+  {
+    "name": "Вахш2 nanostation m2",
+    "ip": "192.168.67.101",
+    "ssid": "AP-vakhsh-2",
+    "login": "ubnt",
+    "pass": "vakhsh101#"
+  },
+  {
+    "name": "Ворошилобад Rocket m2",
+    "ip": "192.168.7.178",
+    "ssid": "voroshil",
+    "login": "ubnt",
+    "pass": "reboot178"
+  },
+  {
+    "name": "Гараути NanoStation М5",
+    "ip": "192.168.67.56",
+    "ssid": "AP Garavti 2 m5",
+    "login": "ubnt",
+    "pass": "garavnet56#"
+  },
+  {
+    "name": "Гараути 3 Power Beam М5",
+    "ip": "192.168.67.57",
+    "ssid": "Garavnet 3",
+    "login": "ubnt",
+    "pass": "garavnet57#"
+  },
+  {
+    "name": "Гараути Power beam M5 Нури Вахш",
+    "ip": "192.168.6.115",
+    "ssid": "AP_BABILON-T",
+    "login": "ubnt",
+    "pass": "garavnet115#"
+  },
+  {
+    "name": "Гулистон (орзу) BBC",
+    "ip": "192.168.67.110",
+    "ssid": "AP Radio",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Гулистон Навобод 1-насос",
+    "ip": "192.168.5.14",
+    "ssid": "AP Navobod",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дангара Ap Akvapark Microtic спирт",
+    "ip": "192.168.67.19",
+    "ssid": "AP Akvapark",
+    "login": "admin",
+    "pass": "dangara19"
+  },
+  {
+    "name": "Дангара Себистон Microtic",
+    "ip": "10.156.233.158",
+    "ssid": "AP Sebiston",
+    "login": "ubnt",
+    "pass": ""
+  },
+  {
+    "name": "Дангара Microtic Tarafi Koleji-спирт",
+    "ip": "192.168.67.20",
+    "ssid": "AP kolej nav",
+    "login": "admin",
+    "pass": "dangara20"
+  },
+  {
+    "name": "Дангара Букмекер Powerbeam m5 ящик",
+    "ip": "192.168.67.21",
+    "ssid": "Formulla55new",
+    "login": "ubnt",
+    "pass": "dangara21"
+  },
+  {
+    "name": "Дангара Телеком Powerbeam m5",
+    "ip": "192.168.67.22",
+    "ssid": "AP Telecom",
+    "login": "ubnt",
+    "pass": "reboot106"
+  },
+  {
+    "name": "Дангара Тут чашма М5",
+    "ip": "192.168.67.23",
+    "ssid": "Tut_Chashma",
+    "login": "ubnt",
+    "pass": "dangara23"
+  },
+  {
+    "name": "Дангара Тут чашма 2 Power beam m5",
+    "ip": "192.168.67.30",
+    "ssid": "",
+    "login": "",
+    "pass": ""
+  },
+  {
+    "name": "Дангара 2 Power beam m2 Саргазон-спирт",
+    "ip": "192.168.67.24",
+    "ssid": "Deposit",
+    "login": "ubnt",
+    "pass": "dangara24"
+  },
+  {
+    "name": "Дангара Спирт Power beam М5 Чалол",
+    "ip": "192.168.67.25",
+    "ssid": "Dagara 97",
+    "login": "ubnt",
+    "pass": "dangara25"
+  },
+  {
+    "name": "Дангара СЭЗ",
+    "ip": "192.168.8.21",
+    "ssid": "seznet",
+    "login": "ubnt",
+    "pass": "ecozona21#"
+  },
+  {
+    "name": "Дангара минтакаи озод",
+    "ip": "192.168.8.19",
+    "ssid": "pistanet",
+    "login": "ubnt",
+    "pass": "ecozona19#"
+  },
+  {
+    "name": "Дангара-Спирт Power beam m2",
+    "ip": "192.168.7.2",
+    "ssid": "depospirt",
+    "login": "ubnt",
+    "pass": "dangara2"
+  },
+  {
+    "name": "Дангара-Спирт Nanostation m2",
+    "ip": "192.168.7.3",
+    "ssid": "formula55",
+    "login": "ubnt",
+    "pass": "dangara3"
+  },
+  {
+    "name": "Дангара-Спирт Power beam m5",
+    "ip": "192.168.7.5",
+    "ssid": "AP kolej nav",
+    "login": "ubnt",
+    "pass": "dangara5"
+  },
+  {
+    "name": "Дангара Power beam m2 Девчашма 1 пушинг",
+    "ip": "192.168.67.26",
+    "ssid": "devchashma",
+    "login": "ubnt",
+    "pass": "dangara26"
+  },
+  {
+    "name": "Дангара Power beam m2 Девчашма 2 пушинг",
+    "ip": "192.168.67.27",
+    "ssid": "devchashma1",
+    "login": "ubnt",
+    "pass": "dangara27"
+  },
+  {
+    "name": "Дангара Гаргра М2",
+    "ip": "192.168.67.18",
+    "ssid": "Gargara",
+    "login": "ubnt",
+    "pass": "gargara18"
+  },
+  {
+    "name": "Дангара Шахбур Powerbeam M2",
+    "ip": "192.168.67.28",
+    "ssid": "Shahbur M2 400",
+    "login": "ubnt",
+    "pass": "dangara28"
+  },
+  {
+    "name": "Дангара Ящик - спирт Powerbeam m5",
+    "ip": "192.168.67.29",
+    "ssid": "Dagara 97",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дангара Барк режим роутер клиент",
+    "ip": "10.240.251.16",
+    "ssid": "",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дангара Боги Игром",
+    "ip": "10.155.18.107",
+    "ssid": "Ighron",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дусти Nanostation m2",
+    "ip": "192.168.4.202",
+    "ssid": "Dusti-Center",
+    "login": "ubnt",
+    "pass": "jayhun202#"
+  },
+  {
+    "name": "Дусти Nanostation loco m2 антена снято",
+    "ip": "192.168.4.203",
+    "ssid": "formula55",
+    "login": "ubnt",
+    "pass": "jayhun203#"
+  },
+  {
+    "name": "Дусти Nanostation m2",
+    "ip": "192.168.4.204",
+    "ssid": "Dusti",
+    "login": "ubnt",
+    "pass": "jayhun204#"
+  },
+  {
+    "name": "Дусти Водоканал Power beam m5",
+    "ip": "192.168.4.206",
+    "ssid": "Ap Vadakanal t-gulshan",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дусти Водоканал Power beam m5",
+    "ip": "10.156.232.183",
+    "ssid": "tarafi zavod",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Дусти Водоканал Power beam m5",
+    "ip": "10.156.232.179",
+    "ssid": "Qumsangir vadakanal",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Загерти Power beam m2",
+    "ip": "192.168.5.174",
+    "ssid": "Zagerti",
+    "login": "ubnt",
+    "pass": "reboot174"
+  },
+  {
+    "name": "Заргар Power beam m5",
+    "ip": "192.168.67.149",
+    "ssid": "AP_ZARGAR",
+    "login": "ubnt",
+    "pass": "zargar149#"
+  },
+  {
+    "name": "Заргар Power beam m5",
+    "ip": "192.168.7.58",
+    "ssid": "AP tarafi Hosilot",
+    "login": "ubnt",
+    "pass": "zargar58#"
+  },
+  {
+    "name": "Заргар Power beam m5",
+    "ip": "192.168.67.152",
+    "ssid": "AP Zargar SHEBEN",
+    "login": "ubnt",
+    "pass": "zargar152#"
+  },
+  {
+    "name": "Кабадиян Rocket m2",
+    "ip": "192.168.5.115",
+    "ssid": "kabnet",
+    "login": "ubnt",
+    "pass": "reboot115"
+  },
+  {
+    "name": "Кабадиян 8 март Power beam m5",
+    "ip": "10.156.234.34",
+    "ssid": "Ap tarafi 8 mart",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Кабадиян Букмекер Nanostation loco m2",
+    "ip": "192.168.5.118",
+    "ssid": "formulla55",
+    "login": "ubnt",
+    "pass": "reboot118"
+  },
+  {
+    "name": "Кабадиян Power beam m5",
+    "ip": "192.168.5.117",
+    "ssid": "AP_Safarzoda",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Кабадиян Тарафи искра Power beam m5",
+    "ip": "10.156.234.39",
+    "ssid": "AP_Babilon-t",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Карадум M2",
+    "ip": "192.168.5.116",
+    "ssid": "karadum",
+    "login": "admin",
+    "pass": "reboot116"
+  },
+  {
+    "name": "Колхозобод Гостроном Power beam m2",
+    "ip": "192.168.67.50",
+    "ssid": "hotel kolnet",
+    "login": "ubnt",
+    "pass": "rumi50#"
+  },
+  {
+    "name": "Колхозобод Гостроном Power beam m5",
+    "ip": "192.168.67.51",
+    "ssid": "Kolnet M5",
+    "login": "ubnt",
+    "pass": "rumi51#"
+  },
+  {
+    "name": "Колхозобод Гостроном Nano station loco m2",
+    "ip": "192.168.6.116",
+    "ssid": "kolnet",
+    "login": "ubnt",
+    "pass": "reboot116"
+  },
+  {
+    "name": "Колхозобод Гостроном Power beam m5",
+    "ip": "192.168.6.118",
+    "ssid": "Kolnet M5",
+    "login": "ubnt",
+    "pass": "rumi118#"
+  },
+  {
+    "name": "Колхозобод Гостроном Nano station loco m2",
+    "ip": "192.168.6.114",
+    "ssid": "kolnet3",
+    "login": "ubnt",
+    "pass": "rumi114#"
+  },
+  {
+    "name": "Колхозобод Диагностика Power beam m5",
+    "ip": "192.168.67.58",
+    "ssid": "Ap Avtodiagnostika",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Колхозобод Мелкамбинат1 Power beam m5",
+    "ip": "192.168.4.2",
+    "ssid": "Melkom M5 2",
+    "login": "ubnt",
+    "pass": "melcom2#"
+  },
+  {
+    "name": "Колхозобод Мелкомбинат2 Power beam m5",
+    "ip": "192.168.67.52",
+    "ssid": "Melcombinat M5",
+    "login": "ubnt",
+    "pass": "melcom52#"
+  },
+  {
+    "name": "Колхозобод Мелкомбинат3 Power beam m5",
+    "ip": "192.168.67.53",
+    "ssid": "Melcombinat 3 M5",
+    "login": "ubnt",
+    "pass": "melcom53#"
+  },
+  {
+    "name": "Колхозобод Мелкомбинат4 Power beam m5",
+    "ip": "192.168.67.54",
+    "ssid": "Melcombinat Chapaev",
+    "login": "ubnt",
+    "pass": "melcom54#"
+  },
+  {
+    "name": "Колхозобод Мелкомбинат5 Power beam m5 Tilo",
+    "ip": "192.168.67.55",
+    "ssid": "Melcombinat M5",
+    "login": "ubnt",
+    "pass": "melcom55#"
+  },
+  {
+    "name": "Курган Коммутатор nanostation М5 ящик",
+    "ip": "192.168.67.114",
+    "ssid": "AP Murod",
+    "login": "ubnt",
+    "pass": "kurgan114#"
+  },
+  {
+    "name": "Курган Коммутатор nanostation M5",
+    "ip": "192.168.67.130",
+    "ssid": "AP Murod2",
+    "login": "ubnt",
+    "pass": "kurgan130#"
+  },
+  {
+    "name": "Курган Коммутатор rocket m2",
+    "ip": "192.168.8.51",
+    "ssid": "formullahotel",
+    "login": "ubnt",
+    "pass": "kurgan51#"
+  },
+  {
+    "name": "Курган Коммутатор Power beam m5 ящик",
+    "ip": "192.168.67.115",
+    "ssid": "Kamutator Beshkapa",
+    "login": "ubnt",
+    "pass": "kurgan115#"
+  },
+  {
+    "name": "Курган Коммутатор Power beamМ5 ящик",
+    "ip": "192.168.8.53",
+    "ssid": "Tarafi _Beshkapa",
+    "login": "ubnt",
+    "pass": "kurgan53#"
+  },
+  {
+    "name": "Курган Гостиница",
+    "ip": "192.168.8.54",
+    "ssid": "kurgan2",
+    "login": "ubnt",
+    "pass": "kurgan54#"
+  },
+  {
+    "name": "Курган Гостиница Gemotest m5",
+    "ip": "192.168.67.116",
+    "ssid": "AP Gemotest M5",
+    "login": "ubnt",
+    "pass": "kurgan116#"
+  },
+  {
+    "name": "Курган 5 iBT Power beam m5",
+    "ip": "192.168.67.117",
+    "ssid": "kurganm5",
+    "login": "ubnt",
+    "pass": "kurgan117#"
+  },
+  {
+    "name": "Кушониён PowerBeam M5 центр",
+    "ip": "192.168.67.105",
+    "ssid": "AP Bokhtar mikro",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Кушониён Rocket m2 центр",
+    "ip": "192.168.5.13",
+    "ssid": "Bohtar",
+    "login": "ubnt",
+    "pass": "bokhtar13#"
+  },
+  {
+    "name": "Кушониён Завод Факиров Nanostation M2",
+    "ip": "192.168.5.10",
+    "ssid": "zavod Faqirov",
+    "login": "ubnt",
+    "pass": "bokhtar10#"
+  },
+  {
+    "name": "Кушониён Tarafi Poezd Nanostation M5",
+    "ip": "192.168.67.102",
+    "ssid": "AP Kushoniyon",
+    "login": "ubnt",
+    "pass": "bokhtar102#"
+  },
+  {
+    "name": "Кушониён Power Beam M5",
+    "ip": "192.168.67.103",
+    "ssid": "AP-Babilon-T",
+    "login": "ubnt",
+    "pass": "bokhtar103#"
+  },
+  {
+    "name": "Кушониён zavod Nanostation M5",
+    "ip": "192.168.67.104",
+    "ssid": "Ap Fakirov10",
+    "login": "ubnt",
+    "pass": "bokhtar104#"
+  },
+  {
+    "name": "Кушониён с/з Киров Power beam M5",
+    "ip": "192.168.67.105",
+    "ssid": "AP Bokhtar mikro",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Коммутатор Садвинсавхоз ящик",
+    "ip": "192.168.8.50",
+    "ssid": "Mikro kommutator",
+    "login": "ubnt",
+    "pass": "reboot146"
+  },
+  {
+    "name": "Мicrotic Айводж",
+    "ip": "192.168.67.44",
+    "ssid": "MikroTik Ayvoj2",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Вахш Янгиабад",
+    "ip": "192.168.67.107",
+    "ssid": "Mikro vaksh yangi",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Дружба Народов",
+    "ip": "10.155.21.12",
+    "ssid": "Kurgan4",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Дусти центр",
+    "ip": "10.156.232.186",
+    "ssid": "",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Дусти Водоканал",
+    "ip": "192.168.4.205",
+    "ssid": "DV-Amonat5",
+    "login": "admin",
+    "pass": "reboot205"
+  },
+  {
+    "name": "Microtic Дангара колечи нав",
+    "ip": "192.168.67.20",
+    "ssid": "",
+    "login": "admin",
+    "pass": "dangara20"
+  },
+  {
+    "name": "Мicrotic Гараути",
+    "ip": "192.168.6.117",
+    "ssid": "Garavnet",
+    "login": "ubnt",
+    "pass": "reboot117"
+  },
+  {
+    "name": "Мicrotic Кабадиян",
+    "ip": "10.156.234.35",
+    "ssid": "Mikro_kabnet",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Microtic Караболо БС-мегафон",
+    "ip": "192.168.67.120",
+    "ssid": "AP Gemotest Karabolo",
+    "login": "admin",
+    "pass": "password"
+  },
+  {
+    "name": "Мicrotic Заргар",
+    "ip": "192.168.67.150",
+    "ssid": "MikroTik Zargar",
+    "login": "admin",
+    "pass": "reboot90"
+  },
+  {
+    "name": "Мicrotic Тугул Пяндж",
+    "ip": "10.156.230.36",
+    "ssid": "MikroTik TUGUL 5",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic ТРЗ",
+    "ip": "10.156.230.70",
+    "ssid": "MikroTik TRZ",
+    "login": "admin",
+    "pass": "admin"
+  },
+  {
+    "name": "Мicrotic Пивзавод",
+    "ip": "192.168.67.167",
+    "ssid": "Mikro AP Gayrat",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Microtic Дангара Себистон",
+    "ip": "10.156.233.150",
+    "ssid": "AP Sebiston",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Хуросон",
+    "ip": "192.168.67.70",
+    "ssid": "MikroTik Khuroson 5",
+    "login": "admin",
+    "pass": "reset70"
+  },
+  {
+    "name": "Мicrotic Чирик",
+    "ip": "192.168.67.240",
+    "ssid": "MikroTik-Chirik",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Мicrotic Гулистон АП",
+    "ip": "10.155.13.22",
+    "ssid": "AP Terakli M5",
+    "login": "admin",
+    "pass": "reboot165"
+  },
+  {
+    "name": "Мicrotic Гулистон клиент радиостанция",
+    "ip": "10.156.232.130",
+    "ssid": "",
+    "login": "admin",
+    "pass": "reboot165"
+  },
+  {
+    "name": "абонент Абдулазиз BBC",
+    "ip": "10.156.232.133",
+    "ssid": "",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Молком Power beam M5 тарафи кизилкала",
+    "ip": "192.168.67.146",
+    "ssid": "Molcom M5",
+    "login": "ubnt",
+    "pass": "molcom146#"
+  },
+  {
+    "name": "Молком Часть power beam M2",
+    "ip": "192.168.67.147",
+    "ssid": "Ap Chast molkom",
+    "login": "ubnt",
+    "pass": "molcom147#"
+  },
+  {
+    "name": "Молком Човид loco M5",
+    "ip": "192.168.67.148",
+    "ssid": "JOVID",
+    "login": "ubnt",
+    "pass": "molcom148#"
+  },
+  {
+    "name": "Молком NanoStation loco M5",
+    "ip": "192.168.67.151",
+    "ssid": "Apzara",
+    "login": "ubnt",
+    "pass": "molcom151#"
+  },
+  {
+    "name": "Молком Power beam M5 Нехи",
+    "ip": "10.156.243.55",
+    "ssid": "AP Nikhi",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Молком Ният PowerBeam M5",
+    "ip": "10.156.243.3",
+    "ssid": "AP Abubakr10 molkom",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Нихи Дружба",
+    "ip": "10.156.243.15",
+    "ssid": "AP Nikhi",
+    "login": "ubnt",
+    "pass": "rahim848"
+  },
+  {
+    "name": "Пивазавод Абдусамад nanostation M5",
+    "ip": "192.168.7.60",
+    "ssid": "kurgan spirt",
+    "login": "ubnt",
+    "pass": "pivzavod60#"
+  },
+  {
+    "name": "Пивзавод Умед Nanostation loco M5",
+    "ip": "192.168.67.162",
+    "ssid": "PivZavod",
+    "login": "ubnt",
+    "pass": "pivzavod162#"
+  },
+  {
+    "name": "Пяндж Nanostation M2",
+    "ip": "192.168.5.66",
+    "ssid": "pyajnet2",
+    "login": "ubnt",
+    "pass": "reboot66"
+  },
+  {
+    "name": "Пяндж Формула55 Nanostation M2",
+    "ip": "192.168.5.67",
+    "ssid": "formula55",
+    "login": "ubnt",
+    "pass": "jalol67#"
+  },
+  {
+    "name": "Пяндж Microtik",
+    "ip": "192.168.5.68",
+    "ssid": "pyanjnet",
+    "login": "admin",
+    "pass": ""
+  },
+  {
+    "name": "Пяндж Nanostation M5",
+    "ip": "192.168.5.69",
+    "ssid": "AP Pyanj",
+    "login": "ubnt",
+    "pass": "jalol69#"
+  },
+  {
+    "name": "Пяндж Гулям Powerbeam M5",
+    "ip": "10.156.230.35",
+    "ssid": "AP_Rahmon",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Пяндж хонаи Кудрат Power beam M2",
+    "ip": "10.156.230.37",
+    "ssid": "AP- Kumitai Zamin",
+    "login": "ubnt",
+    "pass": "reboot37"
+  },
+  {
+    "name": "Пяндж Кудрат Power beam M2",
+    "ip": "192.168.5.70",
+    "ssid": "AP-Kolej",
+    "login": "ubnt",
+    "pass": "jalol70#"
+  },
+  {
+    "name": "Сабзавод savnet2 Nanostation m2",
+    "ip": "192.168.67.87",
+    "ssid": "savnet2",
+    "login": "ubnt",
+    "pass": "sklad87#"
+  },
+  {
+    "name": "Сабзавод Файзали Nanostation loco M2",
+    "ip": "192.168.67.88",
+    "ssid": "savnet1",
+    "login": "ubnt",
+    "pass": "sklad88#"
+  },
+  {
+    "name": "Сабзавод zavod склад Nanobeam m5",
+    "ip": "192.168.67.89",
+    "ssid": "ap zavod",
+    "login": "ubnt",
+    "pass": "sklad89#"
+  },
+  {
+    "name": "Сабзавод nanostation M2",
+    "ip": "192.168.8.22",
+    "ssid": "Mid",
+    "login": "ubnt",
+    "pass": "sklad22#"
+  },
+  {
+    "name": "Савхоз Туркманистон power M5",
+    "ip": "10.156.226.135",
+    "ssid": "AP Savkhozi Turkmeniston",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Склад Power beam m5",
+    "ip": "192.168.67.90",
+    "ssid": "AP Babilon-t.10",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Сангоба Power beam m2",
+    "ip": "192.168.5.21",
+    "ssid": "AP-Ayvoj",
+    "login": "ubnt",
+    "pass": "sangoba21#"
+  },
+  {
+    "name": "Сангоба поток Power beam m5",
+    "ip": "192.168.67.42",
+    "ssid": "Beshkapa Patok M5",
+    "login": "ubnt",
+    "pass": "sangoba42#"
+  },
+  {
+    "name": "Сангоба-Бешкапа поток Power beam m5",
+    "ip": "192.168.67.41",
+    "ssid": "Beshkapa Patok M5",
+    "login": "ubnt",
+    "pass": "beshkapa41#"
+  },
+  {
+    "name": "Сангтуда Водазабор Power beam M2",
+    "ip": "10.155.2.194",
+    "ssid": "sangtuda vodazabor",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Сарбанд Nanostaton loco m2 (махмадуло)",
+    "ip": "192.168.8.18",
+    "ssid": "formula55",
+    "login": "ubnt",
+    "pass": "sarband18#"
+  },
+  {
+    "name": "Сарбанд Nanostation m5 (махмадуло)",
+    "ip": "192.168.67.82",
+    "ssid": "Sarbnet Vodnik",
+    "login": "ubnt",
+    "pass": "sarband82#"
+  },
+  {
+    "name": "Сарбанд NanoStation M5 (махмадуло)",
+    "ip": "192.168.8.20",
+    "ssid": "AP Sarband 3",
+    "login": "ubnt",
+    "pass": "sarband20#"
+  },
+  {
+    "name": "Сарбанд ферма фируз M5 (махмадуло)",
+    "ip": "10.156.233.165",
+    "ssid": "ChicenFarm",
+    "login": "ubnt",
+    "pass": "muslim33"
+  },
+  {
+    "name": "Сарбанд Промзона Power beam M2",
+    "ip": "192.168.67.83",
+    "ssid": "sarbnet",
+    "login": "ubnt",
+    "pass": "promzona83#"
+  },
+  {
+    "name": "Сарбанд промзона Power beam М2",
+    "ip": "192.168.67.84",
+    "ssid": "Sarb promzona",
+    "login": "ubnt",
+    "pass": "promzona84#"
+  },
+  {
+    "name": "Сарбанд промзона Rocket M5 Омни",
+    "ip": "192.168.67.85",
+    "ssid": "AP Saltanat",
+    "login": "ubnt",
+    "pass": "promzona85#"
+  },
+  {
+    "name": "Сарбанд промзона NanoStation Loco M2",
+    "ip": "192.168.67.86",
+    "ssid": "promzona sheben z",
+    "login": "ubnt",
+    "pass": "promzona86#"
+  },
+  {
+    "name": "Текстиль Power beam m5",
+    "ip": "192.168.7.59",
+    "ssid": "Ap Textile848",
+    "login": "ubnt",
+    "pass": "textil59#"
+  },
+  {
+    "name": "Текстиль тарафи 314 Power beam m5",
+    "ip": "192.168.7.61",
+    "ssid": "Textile Gayrat",
+    "login": "ubnt",
+    "pass": "textil61#"
+  },
+  {
+    "name": "Текстиль тарафи дом Nanobeam m5",
+    "ip": "192.168.67.163",
+    "ssid": "Tekstil tarafi dom",
+    "login": "ubnt",
+    "pass": "textil163#"
+  },
+  {
+    "name": "Текстиль Савхоз турк Power beam m5",
+    "ip": "192.168.67.164",
+    "ssid": "AP Savkhozi Turkmeniston",
+    "login": "ubnt",
+    "pass": "textil164#"
+  },
+  {
+    "name": "Текстиль Power beam m5",
+    "ip": "192.168.67.165",
+    "ssid": "Ap Ilhom52",
+    "login": "ubnt",
+    "pass": "Babilon-T165#"
+  },
+  {
+    "name": "Текстиль Power beam m5",
+    "ip": "192.168.67.166",
+    "ssid": "AP Textil tarafi lelin",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Текстиль Power beam m5",
+    "ip": "192.168.67.168",
+    "ssid": "tarafi zavod",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Текстиль Power beam m5",
+    "ip": "192.168.67.169",
+    "ssid": "AP Textil tarafi Vokzal",
+    "login": "ubnt",
+    "pass": "textil169#"
+  },
+  {
+    "name": "Теракли Power beam m2",
+    "ip": "192.168.4.198",
+    "ssid": "AP_Terakli М2",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Теракли Power beam m5",
+    "ip": "10.155.13.22",
+    "ssid": "AP Terakli M5",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Тошробод Nanostation m2",
+    "ip": "192.168.67.72",
+    "ssid": "Toshrobod",
+    "login": "ubnt",
+    "pass": "toshrobod72#"
+  },
+  {
+    "name": "Уяли NanoStation m2",
+    "ip": "192.168.7.197",
+    "ssid": "Uyali",
+    "login": "ubnt",
+    "pass": "uyali197#"
+  },
+  {
+    "name": "Уяли Гравер Nanostation m5",
+    "ip": "192.168.67.71",
+    "ssid": "AP_Safarzod",
+    "login": "ubnt",
+    "pass": "uyali71#"
+  },
+  {
+    "name": "Уяли поток",
+    "ip": "192.168.67.76",
+    "ssid": "",
+    "login": "",
+    "pass": ""
+  },
+  {
+    "name": "Хочи Шариф Сорбон Nanostation M5",
+    "ip": "192.168.67.118",
+    "ssid": "Ap Sorbon",
+    "login": "ubnt",
+    "pass": "kurgan118#"
+  },
+  {
+    "name": "Хочи Шариф руймолфуруш",
+    "ip": "192.168.67.119",
+    "ssid": "AP Hitoy bozor",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Хуросон rocket m2",
+    "ip": "192.168.7.202",
+    "ssid": "obinet",
+    "login": "ubnt",
+    "pass": "khuroson202#"
+  },
+  {
+    "name": "Хуросон Power beam M5",
+    "ip": "192.168.7.196",
+    "ssid": "AP. Khuroson M5",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Чиликул Rocket M2",
+    "ip": "192.168.5.114",
+    "ssid": "jilinet",
+    "login": "ubnt",
+    "pass": "reboot114"
+  },
+  {
+    "name": "Чиликул Power beam M5",
+    "ip": "10.156.234.46",
+    "ssid": "Jilnet2",
+    "login": "ubnt",
+    "pass": "reboot46"
+  },
+  {
+    "name": "Чиликул Power beam M5",
+    "ip": "10.156.233.68",
+    "ssid": "AP Zavod Hoji",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Шартуз 44-чашма Power beam m5",
+    "ip": "192.168.67.38",
+    "ssid": "Beshkent m5",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Шартуз Nanostation loco m2",
+    "ip": "192.168.5.19",
+    "ssid": "shaarnet2",
+    "login": "ubnt",
+    "pass": "reboot19"
+  },
+  {
+    "name": "Шартуз Nanostation m2",
+    "ip": "192.168.5.20",
+    "ssid": "avtodrom",
+    "login": "ubnt",
+    "pass": "shahritus20#"
+  },
+  {
+    "name": "Шартуз Nanostation m5",
+    "ip": "192.168.67.34",
+    "ssid": "AP Babilon-T",
+    "login": "ubnt",
+    "pass": "shahritus34#"
+  },
+  {
+    "name": "Шартуз Максимов Nanostation m2",
+    "ip": "192.168.67.35",
+    "ssid": "avtodrom",
+    "login": "ubnt",
+    "pass": "shahritus35#"
+  },
+  {
+    "name": "Шартуз Максимов часть Power beam m5",
+    "ip": "192.168.67.36",
+    "ssid": "AP-Chast Khoshadi",
+    "login": "ubnt",
+    "pass": "shahritus36#"
+  },
+  {
+    "name": "Шартуз Максимов м5 3",
+    "ip": "192.168.67.38",
+    "ssid": "Maksim -3 gai",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Шартуз M5 гулям Powerbeam M5",
+    "ip": "192.168.67.37",
+    "ssid": "Zavod M5",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Шоди (Сангдтуда) Powerbeam M5",
+    "ip": "192.168.6.218",
+    "ssid": "Ap Shodi",
+    "login": "ubnt",
+    "pass": "babilon218"
+  },
+  {
+    "name": "Шоди клиент Cobra",
+    "ip": "10.155.2.196",
+    "ssid": "",
+    "login": "ubnt",
+    "pass": "reset"
+  },
+  {
+    "name": "Шоди 2",
+    "ip": "192.168.6.219",
+    "ssid": "AP Shodi 2",
+    "login": "ubnt",
+    "pass": "reboot219"
+  },
+  {
+    "name": "Шугнов",
+    "ip": "192.168.43.43",
+    "ssid": "Mercury",
+    "login": "ubnt",
+    "pass": "muslim33"
+  }
+]
