@@ -25,13 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # Создаст черновик релиза и прикрепит туда .exe
-          tagName: app-v__VERSION__
-          releaseName: 'AP_Babilon v__VERSION__'
-          releaseDraft: true
-
-          # Добавьте эти три строки:
-          appName: "AP_Babilon"
-          appVersion: "1.0.0"
-          distPath: "."
-          identifier: "com.babilon.monitor"
+  tagName: app-v__VERSION__
+  releaseName: 'AP_Babilon v__VERSION__'
+  releaseDraft: true
+  appName: "AP_Babilon"
+  appVersion: "1.0.0"
+  distPath: "."
+  args: --config '{"tauri":{"bundle":{"identifier":"com.babilon.monitor"}}}'
