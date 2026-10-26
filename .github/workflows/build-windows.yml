@@ -34,3 +34,4 @@ jobs:
           appName: "AP_Babilon"
           appVersion: "1.0.0"
           distPath: "."
+          identifier: "com.babilon.monitor"
